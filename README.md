@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=header&text=Laszlo%20Sierra%20Mejia&fontSize=40&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:222222&height=120&section=header&text=Laszlo%20Sierra%20Mejia&fontSize=40&fontColor=58a6ff" />
 
 <!-- TYPING -->
 <a href="https://git.io/typing-svg">
