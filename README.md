@@ -1,18 +1,17 @@
 <div align="center">
 
-<!-- BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:222222&height=120&section=header&text=Laszlo%20Sierra%20Mejia&fontSize=40&fontColor=58a6ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:3a0ca3,100:7209b7&height=140&section=header&text=Laszlo%20Sierra%20Mejia&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<!-- TYPING -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Backend+Developer;FastAPI+%2B+Django+%2B+Automation;Building+intelligent+systems+%F0%9F%A7%A0;Future+AI+Founder+%F0%9F%9A%80" />
-</a>
+<h2>👋 Hi, I'm Laszlo Sierra Mejia</h2>
+<h3>🤖 AI Engineer | ⚙️ Backend Developer | 🚀 Future Founder</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=BB86FC&center=true&vCenter=true&width=500&lines=Building+AI+Systems;FastAPI+%2B+Django+Developer;Automation+%26+Scalable+Solutions;Future+AI+Company+Founder" />
 
 </div>
 
 ---
 
-## 👋 Sobre mí · About me
+## 🧠 About Me
 
 <table>
 <tr>
@@ -20,20 +19,14 @@
 
 ### 🇪🇸 Español
 
-Hola, soy **Laszlo Sierra Mejia** (`LaszloSM`), estudiante de **Ingeniería de Sistemas** en la Universidad de La Guajira.
+Soy **Laszlo Sierra Mejia**, estudiante de Ingeniería de Sistemas en la Universidad de La Guajira.
 
-💡 Me especializo en:
+💡 Me enfoco en:
+- 🤖 Inteligencia Artificial  
+- ⚙️ Backend (FastAPI / Django)  
+- 🔗 Automatización  
 
-- 🤖 Inteligencia Artificial y agentes
-- ⚙️ Backend con APIs escalables
-- 🔗 Automatización de procesos
-
-🚀 Construyo proyectos reales mientras desarrollo habilidades para crear soluciones tecnológicas de alto impacto.
-
-- 🎓 Ingeniería de Sistemas — Uniguajira  
-- 🐍 Python, FastAPI, Django  
-- 🤖 Desarrollo con IA  
-- 📍 Colombia  
+🚀 Construyo sistemas reales con visión a crear soluciones escalables.
 
 </td>
 
@@ -41,20 +34,14 @@ Hola, soy **Laszlo Sierra Mejia** (`LaszloSM`), estudiante de **Ingeniería de S
 
 ### 🇺🇸 English
 
-Hi, I'm **Laszlo Sierra Mejia** (`LaszloSM`), a Systems Engineering student at Universidad de La Guajira.
+I'm **Laszlo Sierra Mejia**, Systems Engineering student.
 
-💡 I specialize in:
+💡 Focused on:
+- 🤖 Artificial Intelligence  
+- ⚙️ Backend & APIs  
+- 🔗 Automation  
 
-- 🤖 Artificial Intelligence & AI Agents  
-- ⚙️ Backend & scalable APIs  
-- 🔗 Process automation  
-
-🚀 I build real-world systems focused on scalability and innovation.
-
-- 🎓 Systems Engineering — Uniguajira  
-- 🐍 Python, FastAPI, Django  
-- 🤖 AI-driven development  
-- 📍 Colombia  
+🚀 Building real-world scalable systems.
 
 </td>
 </tr>
@@ -62,58 +49,15 @@ Hi, I'm **Laszlo Sierra Mejia** (`LaszloSM`), a Systems Engineering student at U
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Backend & Frameworks
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-
-### AI & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai)
-![n8n](https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux)
-![Antigravity](https://img.shields.io/badge/Antigravity-0d1117?style=for-the-badge)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=LaszloSM&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaszloSM&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=LaszloSM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaszloSM&layout=compact&theme=dracula" height="150"/>
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LaszloSM&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LaszloSM&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaszloSM&theme=dracula"/>
 </div>
 
 ---
@@ -123,16 +67,53 @@ Hi, I'm **Laszlo Sierra Mejia** (`LaszloSM`), a Systems Engineering student at U
 <div align="center">
 
 <a href="https://github.com/LaszloSM/gosmart">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaszloSM&repo=gosmart&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaszloSM&repo=gosmart&theme=dracula"/>
 </a>
 
 <a href="https://github.com/LaszloSM/Gestor-de-Transporte">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaszloSM&repo=Gestor-de-Transporte&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaszloSM&repo=Gestor-de-Transporte&theme=dracula"/>
 </a>
 
 <a href="https://github.com/LaszloSM/zora_music">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaszloSM&repo=zora_music&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaszloSM&repo=zora_music&theme=dracula"/>
 </a>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+
+</div>
+
+---
+
+## 🤖 AI & Tools
+
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/OpenAI-1a0033?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-3a0ca3?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-7209b7?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge)
 
 </div>
 
@@ -142,17 +123,25 @@ Hi, I'm **Laszlo Sierra Mejia** (`LaszloSM`), a Systems Engineering student at U
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:laszlosierra2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaszloSM)
+[![Gmail](https://img.shields.io/badge/Gmail-1a0033?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laszlosierra2@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1a0033?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaszloSM)
 
+</div>
+
+---
+
+## 🐍 Activity Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=LaszloSM&style=flat-square&color=58a6ff&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=LaszloSM&color=7209b7" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7209b7,50:3a0ca3,100:1a0033&height=100&section=footer"/>
 
 </div>
