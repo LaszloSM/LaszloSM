@@ -1,89 +1,98 @@
-# 👋 Laszlo Sierra Mejia
 
-### 🤖 AI Engineer | Backend Developer | Future Founder
+<div align="center">
 
-Soy **Ingeniero de Sistemas** apasionado por construir sistemas escalables y soluciones inteligentes. Me especializo en **IA, Backend Development y Automatización**. Mi objetivo es crear tecnología que resuelva problemas reales.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:3a0ca3,100:7209b7&height=140&section=header&text=Laszlo%20Sierra%20Mejia&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
----
+<h2>👋 Hi, I'm Laszlo Sierra Mejia</h2>
+<h3>🤖 AI Engineer | ⚙️ Backend Developer | 🚀 Future Founder</h3>
+<h2> Hi, I'm Laszlo Sierra Mejia</h2>
+<h3> AI Engineer |  Backend Developer | Future Founder</h3>
 
-> **Construyendo sistemas inteligentes | APIs escalables | Soluciones de automatización**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=BB86FC&center=true&vCenter=true&width=500&lines=Building+AI+Systems;FastAPI+%2B+Django+Developer;Automation+%26+Scalable+Solutions;Future+AI+Company+Founder" />
 
----
-
-## 📊 Estadísticas
-
-| Métrica | Valor |
-|---------|-------|
-| **Contribuciones Totales** | 236 |
-| **Racha Actual** | 2 días |
-| **Racha Más Larga** | 5 días |
-
-**Lenguajes principales:** Python • TypeScript • JavaScript • SQL
+</div>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🧠 About Me
+##  About Me
 
-| Proyecto | Descripción |
-|----------|------------|
-| **[GoSmart](https://github.com/LaszloSM/gosmart)** | Sistema inteligente de gestión |
-| **[Gestor de Transporte](https://github.com/LaszloSM/Gestor-de-Transporte)** | Plataforma de logística y movilidad |
-| **[Zora Music](https://github.com/LaszloSM/zora_music)** | Aplicación de streaming de música |
+<table>
+<tr>
+@@ -49,7 +50,7 @@ I'm **Laszlo Sierra Mejia**, Systems Engineering student.
+
+---
+
+## 📊 GitHub Stats
+## GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=LaszloSM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150"/>
+@@ -62,7 +63,7 @@ I'm **Laszlo Sierra Mejia**, Systems Engineering student.
+
+---
+
+## 🚀 Featured Projects
+## Featured Projects
+
+<div align="center">
+
+@@ -82,7 +83,7 @@ I'm **Laszlo Sierra Mejia**, Systems Engineering student.
 
 ---
 
 ## 🛠️ Tech Stack
-
-### Backend & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### IA & Automatización
-![Claude](https://img.shields.io/badge/Claude-1a0033?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-7209b7?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-3a0ca3?style=flat-square)
-
----
-
-## 💡 Lo Que Hago
-
-- **🤖 Sistemas de IA**: Integración de modelos avanzados, automación inteligente
-- **⚙️ Backend Robusto**: APIs escalables con FastAPI y Django
-- **🔗 Automatización**: Workflows inteligentes con n8n y LangChain
-- **📱 Full-Stack**: Desde frontend hasta infraestructura cloud
-
----
-
-## 📫 Conecta Conmigo
+## Tech Stack
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/📧%20Gmail-laszlosierra2@gmail.com-EA4335?style=for-the-badge)](mailto:laszlosierra2@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙%20GitHub-LaszloSM-181717?style=for-the-badge)](https://github.com/LaszloSM)
+@@ -101,16 +102,30 @@ I'm **Laszlo Sierra Mejia**, Systems Engineering student.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40"/>
 
 </div>
 
 ---
 
-## 📫 Conecta Conmigo
+## 🤖 AI & Tools
+## Tools
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/📧%20Gmail-laszlosierra2@gmail.com-EA4335?style=for-the-badge)](mailto:laszlosierra2@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙%20GitHub-LaszloSM-181717?style=for-the-badge)](https://github.com/LaszloSM)
+![OpenAI](https://img.shields.io/badge/OpenAI-1a0033?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-1a0033?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-3a0ca3?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-7209b7?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge)
+@@ -119,7 +134,7 @@ I'm **Laszlo Sierra Mejia**, Systems Engineering student.
 
-</div>
+---
+
+## 📫 Contact
+## Contact
+
+<div align="center">
+
+@@ -130,7 +145,6 @@ I'm **Laszlo Sierra Mejia**, Systems Engineering student.
+
+---
+
+## 🐍 Activity Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
