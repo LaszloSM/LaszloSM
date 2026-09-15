@@ -1,161 +1,110 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:3a0ca3,100:7209b7&height=140&section=header&text=Laszlo%20Sierra%20Mejia&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=210&section=header&text=Laszlo%20Sierra%20Mejia&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-<h2> Hi, I'm Laszlo Sierra Mejia</h2>
-<h3> AI Engineer |  Backend Developer | Future Founder</h3>
+<a href="https://github.com/LaszloSM"><img src="https://img.shields.io/badge/GitHub-LaszloSM-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:laszlosierra2@gmail.com"><img src="https://img.shields.io/badge/Email-Contactar-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=BB86FC&center=true&vCenter=true&width=500&lines=Building+AI+Systems;FastAPI+%2B+Django+Developer;Automation+%26+Scalable+Solutions;Future+AI+Company+Founder" />
+<br /><br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+AI-powered+systems;Designing+reliable+backend+APIs;Automating+the+work+that+matters;Turning+ideas+into+real+products" alt="Typing introduction" />
 
 </div>
 
----
+<br />
 
-##  About Me
+## Sobre mí
+
+Soy **Laszlo Sierra Mejia**, estudiante de Ingeniería de Sistemas en la Universidad de La Guajira y desarrollador enfocado en construir productos útiles, escalables y fáciles de mantener.
+
+Mi trabajo se encuentra en la intersección entre **inteligencia artificial, backend y automatización**. Me gusta convertir problemas complejos en sistemas simples, medibles y listos para crecer.
+
+```text
+🎯 Enfoque actual       IA aplicada · APIs · automatización · arquitectura backend
+🧠 Me interesa          Crear productos que resuelvan problemas reales
+🚀 Próximo objetivo     Construir soluciones con impacto y visión de producto
+```
+
+## Lo que hago
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🇪🇸 Español
-
-Soy **Laszlo Sierra Mejia**, estudiante de Ingeniería de Sistemas en la Universidad de La Guajira.
-
-💡 Me enfoco en:
-- 🤖 Inteligencia Artificial  
-- ⚙️ Backend (FastAPI / Django)  
-- 🔗 Automatización  
-
-🚀 Construyo sistemas reales con visión a crear soluciones escalables.
+### 🤖 IA aplicada
+Integro modelos y herramientas de IA para crear experiencias y flujos más inteligentes.
 
 </td>
+<td width="33%" align="center">
 
-<td width="50%">
+### ⚙️ Backend
+Diseño APIs y servicios robustos con foco en claridad, rendimiento y mantenibilidad.
 
-### 🇺🇸 English
+</td>
+<td width="33%" align="center">
 
-I'm **Laszlo Sierra Mejia**, Systems Engineering student.
-
-💡 Focused on:
-- 🤖 Artificial Intelligence  
-- ⚙️ Backend & APIs  
-- 🔗 Automation  
-
-🚀 Building real-world scalable systems.
+### 🔗 Automatización
+Conecto herramientas y procesos para eliminar trabajo repetitivo y mejorar operaciones.
 
 </td>
 </tr>
 </table>
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaszloSM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaszloSM&layout=compact&theme=dracula" height="150"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaszloSM&theme=dracula"/>
-</div>
-
----
-
-## Featured Projects
+## Stack tecnológico
 
 <div align="center">
 
-<a href="https://github.com/LaszloSM/gosmart">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaszloSM&repo=gosmart&theme=dracula"/>
-</a>
+### Lenguajes & frameworks
 
-<a href="https://github.com/LaszloSM/Gestor-de-Transporte">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaszloSM&repo=Gestor-de-Transporte&theme=dracula"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,fastapi,django,nodejs,react,flutter" alt="Lenguajes y frameworks" />
 
-<a href="https://github.com/LaszloSM/zora_music">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaszloSM&repo=zora_music&theme=dracula"/>
-</a>
+### Datos & herramientas
+
+<img src="https://skillicons.dev/icons?i=postgresql,docker,graphql,linux,git" alt="Datos y herramientas" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/AI-7c3aed?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
+<img src="https://img.shields.io/badge/LangChain-1c1c1c?style=for-the-badge" alt="LangChain" />
+<img src="https://img.shields.io/badge/n8n-ea4b71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 
 </div>
 
----
-
-## Tech Stack
+## Proyectos destacados
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40"/>
+<a href="https://github.com/LaszloSM/gosmart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LaszloSM&repo=gosmart&theme=tokyonight&hide_border=true" alt="GoSmart" /></a>
+<a href="https://github.com/LaszloSM/Gestor-de-Transporte"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LaszloSM&repo=Gestor-de-Transporte&theme=tokyonight&hide_border=true" alt="Gestor de Transporte" /></a>
+<a href="https://github.com/LaszloSM/zora_music"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LaszloSM&repo=zora_music&theme=tokyonight&hide_border=true" alt="Zora Music" /></a>
 
 </div>
 
----
-
-## Tools
+## GitHub en números
 
 <div align="center">
 
-![Claude](https://img.shields.io/badge/Claude-1a0033?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-3a0ca3?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-7209b7?style=for-the-badge)
-![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LaszloSM&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Estadísticas de GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaszloSM&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Lenguajes más usados" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=LaszloSM&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 
 </div>
 
----
+## Conectemos
 
-## Contact
+Si estás construyendo algo interesante con IA, backend o automatización, escríbeme. Siempre estoy abierto a aprender, colaborar y convertir buenas ideas en productos reales.
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-1a0033?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laszlosierra2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1a0033?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaszloSM)
+[![Email](https://img.shields.io/badge/Escríbeme-laszlosierra2%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laszlosierra2@gmail.com)
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=LaszloSM&style=flat-square&color=7c3aed&label=visitas+al+perfil" alt="Visitas al perfil" />
 
 </div>
 
----
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=LaszloSM&color=7209b7" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7209b7,50:3a0ca3,100:1a0033&height=100&section=footer"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0f172a&height=120&section=footer" width="100%" />
